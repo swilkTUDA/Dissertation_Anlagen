@@ -19,5 +19,6 @@ The third chapter describes quality models for user-generated degradations such 
 
 The videos used in the evaluation for assessing the impact of user-generated degradations can be found [here](https://www.stefanwilk.de/phd/ch3/degradations/degradations.tar.gz).
 
+An excerpt of the videos used for assessing the impact of the recording position on the perceived video quality can be found [here](https://www.stefanwilk.de/phd/ch3/ Perspective_Videos.rar).
 
 to be continued...
